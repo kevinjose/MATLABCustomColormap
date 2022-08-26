@@ -12,6 +12,6 @@ colormapCustom('darkred', 'white', 'navy')
 colormapObj = colormapCustom([1 0 0], [0.5 0.5 0.5])
 ```
 
-##Note
+## Note
 This function uses `rgb.m` and it must be in the current path.
 `rgb.m` is available on MathWorks File Exchange (https://www.mathworks.com/matlabcentral/fileexchange/24497-rgb-triple-of-color-name-version-2)
